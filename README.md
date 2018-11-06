@@ -1,0 +1,1 @@
+# TypeScriptSample181105
